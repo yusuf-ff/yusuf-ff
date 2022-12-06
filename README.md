@@ -11,8 +11,7 @@ Jr Developer
 
 <a href="https://www.twitter.com/yusufffstk" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yusufffstk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a><a href="https://www.github.com/yusuf-ff" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/yusuf-ff?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+/></a>
 
 ### Skills
 
