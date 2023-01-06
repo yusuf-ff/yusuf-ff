@@ -6,7 +6,7 @@ Jr Developer
 
 * 🌍  I'm based in Kahramanmaras/Turkey
 * 🖥️  See my portfolio at [portfolio](https://yusuffistik.online)
-* ✉️  You can contact me at [yfistik1104@gmail.com](mailto:yfistik1104@gmail.com)
+* ✉️  You can contact me at [contact@yusuffistik.online](mailto:contact@yusuffistik.online)
 * 🧠  I'm learning react
 
 <a href="https://www.twitter.com/yusufffstk" target="_blank" rel="noreferrer"><img
