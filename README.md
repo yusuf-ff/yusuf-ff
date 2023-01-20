@@ -8,10 +8,6 @@ Jr Developer
 * 🖥️  See my portfolio at [portfolio](https://yusuffistik.online)
 * ✉️  You can contact me at [contact@yusuffistik.online](mailto:contact@yusuffistik.online)
 
-<a href="https://www.twitter.com/yusufffstk" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/yusufffstk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 
