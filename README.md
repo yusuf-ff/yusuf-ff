@@ -5,7 +5,7 @@ Jr Developer
 ------------
 
 * 🌍  I'm based in Kahramanmaras/Turkey
-* 🖥️  See my portfolio at [portfolio](https://oceancodeware.com)
+* 🖥️  See my website at [Ocean Codeware](https://oceancodeware.com)
 * ✉️  You can contact me at [contact@yusuffistik.online](mailto:contact@oceancodeware.com)
 
 ### Skills
