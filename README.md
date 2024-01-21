@@ -3,11 +3,11 @@ Hi 👋 My name is Yusuf Fıstık
 
 Jr Developer
 ------------
-
+<!--
 * 🌍  I'm based in Kahramanmaras/Turkey
 * 🖥️  See my website at [Ocean Codeware](https://oceancodeware.com)
 * ✉️  You can contact me at [contact@oceancodeware.com](mailto:contact@oceancodeware.com)
-
+-->
 ### Skills
 
 
@@ -24,14 +24,14 @@ Jr Developer
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
 
-
+<!--
 ### Socials
 
 <p align="left"> 
 <a href="https://discord.com/users/yusuff#4296" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yusuf-fistik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users//yusufff" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yusufffstk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://yusufffstk.medium.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
 </p> 
-
+-->
 ### Badges
 
 <!---<b>My GitHub Stats</b>
