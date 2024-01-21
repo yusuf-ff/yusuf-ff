@@ -1,4 +1,4 @@
-Hi 👋 My name is Yusuf Fıstık
+Hi 👋 My name is Yusuf
 =============================
 
 Jr Developer
